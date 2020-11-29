@@ -9,3 +9,5 @@ This desktop application is made in language "processing".
 # Arduino Code
 Along with the desktop application code, you can also find arduino code which we used to program our hardware console. The hardware console consists of an arduino uno, temperature sensor, ph sensor and turbidity sensor.
 
+![](IMG_20191129_125448.jpg)
+
